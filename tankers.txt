@@ -1,0 +1,8 @@
+Name: maaz, CNIC: 32254225, Contact: 1716, Address: jhghg, Tanker Size: 2000, Delivery Type: Emergency, Delivery Day: Thursday, Delivery Time: 12:00 PM
+Name: usman, CNIC: 4101-3554916-3, Contact: 03118336386, Address: r 16, Tanker Size: 2000, Delivery Type: Emergency, Delivery Day: Not Assigned, Delivery Time: Not Assigned
+Name: zainab, CNIC: 42101-2456789, Contact: 03322603281, Address: r1185dfghjkl, Tanker Size: 1000, Delivery Type: Normal, Delivery Day: Monday, Delivery Time: 12:00 PM
+Name: amna, CNIC: 8797-778, Contact: 0982345, Address: gulshan, Tanker Size: 2000, Delivery Type: Emergency, Delivery Day: Not Assigned, Delivery Time: Not Assigned
+Name: usman, CNIC: 4101-3554916-3, Contact: 03118336386, Address: r 16, Tanker Size: 2000, Delivery Type: Emergency, Delivery Day: Sunday, Delivery Time: 6:00 PM
+Name: Omer, CNIC: 4210111314004, Contact: 03102599587, Address: North Karachi, Tanker Size: 2000, Delivery Type: Normal, Delivery Day: Not Assigned, Delivery Time: Not Assigned
+Name: mazzzoo, CNIC: 12345, Contact: 1345y67, Address: nk, Tanker Size: 1000, Delivery Type: Normal, Delivery Day: Not Assigned, Delivery Time: Not Assigned
+Name: ubbi, CNIC: 9876567, Contact: 12345, Address: nk, Tanker Size: 1000, Delivery Type: Normal, Delivery Day: Not Assigned, Delivery Time: Not Assigned
